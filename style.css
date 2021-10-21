@@ -1,0 +1,25 @@
+button {
+  display: block;
+}
+
+table {
+  text-align: left;
+  width: 50%;
+  /* left: 50%; */
+}
+
+label,
+input {
+  margin: 10px 0;
+  font-size: 25px;
+}
+
+table td,
+table th {
+  /* border: 1px solid black; */
+}
+
+form {
+  width: 500px;
+  margin: 20px 0;
+}
