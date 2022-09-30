@@ -9,17 +9,15 @@
 
 ## Description
 
-My own Expense Tracker is a beignner friendly website, that will help people to calculate there expense effortlessly.
+My own Expense Tracker is a beginner friendly website, that will help people to calculate there expense effortlessly.
 
 
 ## Installation
 
-Install my-project with npm
+Install npm packages required with `npm install`
 
-```bash
-  npm install my-project
-  cd my-project
-```
+To run the project `npm start`
+
     
 ## Tech Stack
 
