@@ -1,25 +1,46 @@
 button {
   display: block;
 }
-
+html {
+  box-sizing: border-box;
+  background-color: yellowgreen;
+}
+.text {
+  text-align: center;
+  color: antiquewhite;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  border: 1px antiquewhite;
+}
 table {
-  text-align: left;
+  align-items: center;
+  color: antiquewhite;
+  text-align: center;
   width: 50%;
+  border: 1px antiquewhite;
   /* left: 50%; */
 }
 
 label,
 input {
+  color: black;
   margin: 10px 0;
   font-size: 25px;
+  text-align: center;
+  text-align: center;
+  color: antiquewhite;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 table td,
 table th {
-  /* border: 1px solid black; */
+  border: 1px antiquewhite;
 }
 
 form {
+  color: antiquewhite;
   width: 500px;
   margin: 20px 0;
+  align-content: center;
 }
